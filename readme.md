@@ -26,6 +26,7 @@ operations.
 
 5.) Create SUV table for DB: 
 *insert screenshot of creation of table.
+![car](https://user-images.githubusercontent.com/90769872/225324343-a8a5b3fa-53e5-4019-83d6-9f3cacb1db02.jpg)
 
 6.) Populate coupe table:
 *insert screenshot of table being populated 
